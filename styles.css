@@ -38,9 +38,18 @@ main {
 }
 
 #logo-container {
-    background-color:rgb(0 0 0 / 30%)
+    background-color:rgb(0 0 0 / 30%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #logo-container > img {
     height: 90px;
+}
+
+#page-title {
+    color: white;
+    font-family: 'Norse', 'Times New Roman', Times, serif;
+    font-size: 60px;
 }
