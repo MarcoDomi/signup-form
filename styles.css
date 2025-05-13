@@ -69,3 +69,13 @@ footer#bg-credit, footer#bg-credit > a {
     color: rgba(244, 241, 241, 0.955);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.form-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#blurb {
+    
+}
