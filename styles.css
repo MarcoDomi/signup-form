@@ -87,7 +87,7 @@ footer#bg-credit, footer#bg-credit > a {
     padding-right: 2rem;
 }
 
-#blurb span {
+span.italicize {
     font-style: italic;
 }
 
