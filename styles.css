@@ -108,8 +108,16 @@ label {
 }
 
 form input {
-    height: 29px;
-    width: 230px;
+    height: 30px;
+    width: 250px;
     border: 1px solid rgb(189, 189, 189);
     border-radius: 5px;
+}
+
+#blurb, .col1, .submit-container, fieldset>h2 {
+    padding-left: 55px;
+}
+
+* {
+    border: 1px solid red;
 }
