@@ -74,6 +74,7 @@ footer#bg-credit, footer#bg-credit > a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 48px;
     background-color: rgb(242, 242, 242);
 }
 
@@ -81,10 +82,15 @@ footer#bg-credit, footer#bg-credit > a {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 1.3rem;
+    margin-bottom: 0px;
 }
 
 #blurb span {
     font-style: italic;
+}
+
+#blurb p {
+    margin-top: 30px;
 }
 
 fieldset p {
@@ -115,9 +121,5 @@ form input {
 }
 
 #blurb, .col1, .submit-container, fieldset>h2 {
-    padding-left: 55px;
-}
-
-* {
-    border: 1px solid red;
+    padding-left: 42px;
 }
