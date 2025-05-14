@@ -103,9 +103,13 @@ label {
     display: inline-block;
 }
 
+.col1 {
+    margin-right: 4rem;
+}
+
 form input {
     height: 29px;
-    width: 260px;
+    width: 230px;
     border: 1px solid rgb(189, 189, 189);
     border-radius: 5px;
 }
