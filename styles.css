@@ -75,7 +75,7 @@ footer#bg-credit, footer#bg-credit > a {
     justify-content: center;
     gap: 48px;
     background-color: rgb(242, 242, 242);
-    width: 100%;
+    width: auto;
 }
 
 #blurb {
