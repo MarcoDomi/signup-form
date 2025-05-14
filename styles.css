@@ -96,9 +96,13 @@ footer#bg-credit, footer#bg-credit > a {
 fieldset {
     background-color: white;
     border: none;
-    box-shadow: 1px 2px 3px 1px rgba(0, 40, 0, 0.403);
+    box-shadow: 1px 1px 4px 2px rgba(0, 47, 0, 0.26);
     padding-top: 19px;
     padding-bottom: 28px;
+}
+
+fieldset > h2 {
+    margin-bottom: 2px;
 }
 
 fieldset p {
@@ -110,6 +114,7 @@ label {
     font-size: 0.75rem;
     font-weight: bold;
     display: block;
+    margin-bottom: 0.3rem;
 }
 
 .col1, .col2 {
