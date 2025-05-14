@@ -82,7 +82,9 @@ footer#bg-credit, footer#bg-credit > a {
 #blurb {
     font-weight: bold;
     font-size: 1.3rem;
-    margin-bottom: 0px; /*will change value later*/
+    margin-bottom: 0.3rem; /*will change value later*/
+    margin-top: -4rem;
+    padding-right: 2rem;
 }
 
 #blurb span {
@@ -133,5 +135,5 @@ form input {
 }
 
 #blurb, .col1, .submit-container, fieldset>h2 {
-    padding-left: 42px;
+    padding-left: 35px;
 }
