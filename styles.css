@@ -30,7 +30,7 @@ main {
 
 .title-side {
     background-image: url("images/halie-west-25xggax4bSA-unsplash.jpg");
-    background-size: cover;
+    background-size: 100% 100%;
     background-color: white;
     width: 58%;
     display: flex;
