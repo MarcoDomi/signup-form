@@ -75,7 +75,7 @@ footer#bg-credit, footer#bg-credit > a {
     justify-content: center;
     gap: 48px;
     background-color: rgb(242, 242, 242);
-    width: 42%;
+    width: 100%;
 }
 
 #blurb {
@@ -141,6 +141,7 @@ input:focus {
 
 input:invalid {
     outline: 1px solid red;
+    box-shadow: none;
 }
 
 #blurb, .col1, .submit-container, fieldset>h2 {
