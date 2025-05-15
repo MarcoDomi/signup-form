@@ -160,6 +160,10 @@ button {
     margin-bottom: 1.8rem;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .submit-container a {
     color: #596D48;
     text-decoration: none;
